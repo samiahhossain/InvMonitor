@@ -1,2 +1,2 @@
-public class OceansTeam extends Materials {
+public class OceansTeam extends Team {
 }

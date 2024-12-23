@@ -19,6 +19,10 @@ public class Item {
         return quantityHave;
     }
 
+    public void setQuantityHave(int quantityHave) {
+        this.quantityHave = quantityHave;
+    }
+
     public int getLowAmount() {
         return lowAmount;
     }

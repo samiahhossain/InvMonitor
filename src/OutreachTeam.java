@@ -1,2 +1,2 @@
-public class OutreachTeam extends Materials {
+public class OutreachTeam extends Team {
 }

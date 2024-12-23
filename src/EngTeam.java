@@ -1,2 +1,2 @@
-public class EngTeam extends Materials {
+public class EngTeam extends Team {
 }
